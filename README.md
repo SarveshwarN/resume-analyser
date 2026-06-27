@@ -2,7 +2,7 @@
 
 An LLM-powered web application that analyses a candidate's resume against a job description — returning a match score, missing skills, ATS keyword gaps, and improved bullet point suggestions. All analyses are logged to PostgreSQL for tracking improvement over time.
 
-🔗 **Live Demo:** https://resume-analyser-ai.streamlit.app  
+🔗 **Live Demo:** https://resume-analyserai.streamlit.app  
 📡 **API Docs:** https://resume-analyser-api-yy3i.onrender.com/docs
 
 ---
