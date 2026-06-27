@@ -5,7 +5,7 @@ job description, returns a match score, identifies missing skills, suggests
 improved bullet points, and flags ATS keyword gaps.
 
 ## Live Demo
-- Frontend: https://resume-analyser-ai.streamlit.app
+- Frontend: https://resume-analyserai.streamlit.app
 - API Docs: https://resume-analyser-api-yy3i.onrender.com/docs
 
 ## Tech Stack
