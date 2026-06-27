@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-API_URL = "http://127.0.0.1:8000/api"
+API_URL = "https://resume-analyser-api-yy3i.onrender.com/api"
 
 st.set_page_config(page_title="AI Resume Analyser", page_icon="📄", layout="wide")
 
